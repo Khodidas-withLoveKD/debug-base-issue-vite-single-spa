@@ -1,0 +1,6 @@
+{
+	"imports": {
+		"@kd/root-config": "http://localhost:9000/src/kd-root-config.js",
+		"@kd/app-1": "http://localhost:9001/src/spa.jsx"
+	}
+}
